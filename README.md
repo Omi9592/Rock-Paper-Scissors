@@ -1,3 +1,4 @@
 # Rock-Paper-Scissors
 demo <br>
-auther omi
+author omi
+welcome to demo
