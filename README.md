@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors
-demo
+demo <br>
 auther omi
